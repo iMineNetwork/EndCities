@@ -1,0 +1,32 @@
+# NetBeans specific #
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+manifest.mf
+build.xml
+nbactions.xml
+nb-configuration.xml
+
+# Eclipse specific #
+/bin/
+.settings/
+.project
+.classpath
+
+# Class Files #
+*.class
+
+# Intellij Specific
+.idea/
+*.idea
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+!libs/*.jar
+.DS_Store
+/target/
